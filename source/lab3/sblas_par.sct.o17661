@@ -1,0 +1,226 @@
+Running on 1 threads
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ Succesfully Created timer 'alex_backwards'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.46610130742192268     
+   Time Per Call   4.66101307421922678E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   0.11450573615729809     
+   Time Per Call   1.14505736157298086E-004
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.86824997514486313     
+   Time Per Call   8.68249975144863161E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    4.3503499291837215     
+   Time Per Call    4.3503499291837215     
+ Timer 'alex_backwards' information
+   Calls         1000
+   Total Time    2.6689454782754183     
+   Time Per Call   2.66894547827541823E-003
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ Succesfully Created timer 'alex_backwards'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.46617895923554897     
+   Time Per Call   4.66178959235548991E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   0.11436333507299423     
+   Time Per Call   1.14363335072994229E-004
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.86870129778981209     
+   Time Per Call   8.68701297789812059E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    4.3528152387589216     
+   Time Per Call    4.3528152387589216     
+ Timer 'alex_backwards' information
+   Calls         1000
+   Total Time    2.6716488320380449     
+   Time Per Call   2.67164883203804479E-003
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ Succesfully Created timer 'alex_backwards'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.46649045497179031     
+   Time Per Call   4.66490454971790292E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   0.11462270841002464     
+   Time Per Call   1.14622708410024639E-004
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.87419447489082813     
+   Time Per Call   8.74194474890828172E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    4.3681305926293135     
+   Time Per Call    4.3681305926293135     
+ Timer 'alex_backwards' information
+   Calls         1000
+   Total Time    2.6815006323158741     
+   Time Per Call   2.68150063231587400E-003
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ Succesfully Created timer 'alex_backwards'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.46779973059892654     
+   Time Per Call   4.67799730598926543E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   0.11442238464951515     
+   Time Per Call   1.14422384649515157E-004
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.86435675434768200     
+   Time Per Call   8.64356754347682019E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    4.4961562473326921     
+   Time Per Call    4.4961562473326921     
+ Timer 'alex_backwards' information
+   Calls         1000
+   Total Time    2.8058258313685656     
+   Time Per Call   2.80582583136856564E-003
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ Succesfully Created timer 'alex_backwards'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.46680087782442570     
+   Time Per Call   4.66800877824425687E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   0.11463675089180470     
+   Time Per Call   1.14636750891804700E-004
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.87152771279215813     
+   Time Per Call   8.71527712792158175E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    4.3608186487108469     
+   Time Per Call    4.3608186487108469     
+ Timer 'alex_backwards' information
+   Calls         1000
+   Total Time    2.6760233528912067     
+   Time Per Call   2.67602335289120674E-003
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ Succesfully Created timer 'alex_backwards'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.46478758379817009     
+   Time Per Call   4.64787583798170105E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   0.11493876576423645     
+   Time Per Call   1.14938765764236448E-004
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.87833501957356930     
+   Time Per Call   8.78335019573569273E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    4.4976882673799992     
+   Time Per Call    4.4976882673799992     
+ Timer 'alex_backwards' information
+   Calls         1000
+   Total Time    2.8053297288715839     
+   Time Per Call   2.80532972887158382E-003
+Running on 2 threads
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ Succesfully Created timer 'alex_backwards'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.62523840367794037     
+   Time Per Call   6.25238403677940324E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   5.94577714800834656E-002
+   Time Per Call   5.94577714800834675E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.44345696270465851     
+   Time Per Call   4.43456962704658509E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    2.6640497148036957     
+   Time Per Call    2.6640497148036957     
+ Timer 'alex_backwards' information
+   Calls         1000
+   Total Time    1.4103639293462038     
+   Time Per Call   1.41036392934620371E-003
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ Succesfully Created timer 'alex_backwards'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.62562928721308708     
+   Time Per Call   6.25629287213087131E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   5.92864826321601868E-002
+   Time Per Call   5.92864826321601836E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.44280024804174900     
+   Time Per Call   4.42800248041749008E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    2.6472507566213608     
+   Time Per Call    2.6472507566213608     
+ Timer 'alex_backwards' information
+   Calls         1000
+   Total Time    1.3967795111238956     
+   Time Per Call   1.39677951112389571E-003

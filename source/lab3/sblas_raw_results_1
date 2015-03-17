@@ -1,0 +1,23 @@
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1) =    6.2839999198913574      y(m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.40198438800871372     
+   Time Per Call   4.01984388008713733E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   0.11394321732223034     
+   Time Per Call   1.13943217322230337E-004
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.28970017842948437     
+   Time Per Call   2.89700178429484344E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    4.4373350888490677     
+   Time Per Call    4.4373350888490677     

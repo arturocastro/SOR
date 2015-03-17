@@ -1,0 +1,91 @@
+Running on 1 threads
+size 200:
+200
+ 
+ Omega = 1.969223
+ It took 60860 iterations.
+Total time = 10.832412
+
+
+200
+ 
+ Omega = 1.969223
+ It took 60860 iterations.
+Total time = 10.746552
+
+
+200
+ 
+ Omega = 1.969223
+ It took 60860 iterations.
+Total time = 10.761741
+
+
+200
+ 
+ Omega = 1.969223
+ It took 60860 iterations.
+Total time = 11.257407
+
+
+200
+ 
+ Omega = 1.969223
+ It took 60860 iterations.
+Total time = 11.165764
+
+
+200
+ 
+ Omega = 1.969223
+ It took 60860 iterations.
+Total time = 10.816579
+
+
+200
+ 
+ Omega = 1.969223
+ It took 60860 iterations.
+Total time = 10.951833
+
+
+200
+ 
+ Omega = 1.969223
+ It took 60860 iterations.
+Total time = 10.849965
+
+
+200
+ 
+ Omega = 1.969223
+ It took 60860 iterations.
+Total time = 10.816674
+
+
+200
+ 
+ Omega = 1.969223
+ It took 60860 iterations.
+Total time = 10.938691
+
+
+Running on 2 threads
+size 200:
+/geadmin/ge2011.11/default/spool/mcore48/job_scripts/20239: line 33: 17900 Segmentation fault      ./sor_jacobi$s
+/geadmin/ge2011.11/default/spool/mcore48/job_scripts/20239: line 33: 17911 Segmentation fault      ./sor_jacobi$s
+/geadmin/ge2011.11/default/spool/mcore48/job_scripts/20239: line 33: 17922 Segmentation fault      ./sor_jacobi$s
+/geadmin/ge2011.11/default/spool/mcore48/job_scripts/20239: line 33: 18104 Segmentation fault      ./sor_jacobi$s
+/geadmin/ge2011.11/default/spool/mcore48/job_scripts/20239: line 33: 18117 Segmentation fault      ./sor_jacobi$s
+/geadmin/ge2011.11/default/spool/mcore48/job_scripts/20239: line 33: 18254 Segmentation fault      ./sor_jacobi$s
+/geadmin/ge2011.11/default/spool/mcore48/job_scripts/20239: line 33: 18315 Segmentation fault      ./sor_jacobi$s
+/geadmin/ge2011.11/default/spool/mcore48/job_scripts/20239: line 33: 18327 Segmentation fault      ./sor_jacobi$s
+/geadmin/ge2011.11/default/spool/mcore48/job_scripts/20239: line 33: 18337 Segmentation fault      ./sor_jacobi$s
+/geadmin/ge2011.11/default/spool/mcore48/job_scripts/20239: line 33: 18378 Segmentation fault      ./sor_jacobi$s
+Running on 3 threads
+size 200:
+/geadmin/ge2011.11/default/spool/mcore48/job_scripts/20239: line 33: 18398 Segmentation fault      ./sor_jacobi$s
+/geadmin/ge2011.11/default/spool/mcore48/job_scripts/20239: line 33: 18411 Segmentation fault      ./sor_jacobi$s
+/geadmin/ge2011.11/default/spool/mcore48/job_scripts/20239: line 33: 18630 Segmentation fault      ./sor_jacobi$s
+/geadmin/ge2011.11/default/spool/mcore48/job_scripts/20239: line 33: 18882 Segmentation fault      ./sor_jacobi$s
+/geadmin/ge2011.11/default/spool/mcore48/job_scripts/20239: line 33: 18896 Segmentation fault      ./sor_jacobi$s

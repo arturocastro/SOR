@@ -1,0 +1,25 @@
+#!/bin/sh
+#
+# request Bourne shell as shell for job
+#$ -S /bin/sh
+#
+# use current working directory
+#$ -cwd
+#
+# join the output and error output in one file
+#$ -j y
+#
+# use the par environment for parallel jobs
+#$ -pe par 12
+#
+# set up path for MPI
+PATH=/usr/local/software/mpich2-install/bin:$PATH ; export PATH
+#
+
+for p in 1 2 4 8
+do
+export OMP_NUM_THREADS=$p
+echo Running on $p mpi processes
+mpiexec -n $p ./sblas_1
+done
+

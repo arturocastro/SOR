@@ -1,0 +1,163 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+#include <omp.h>
+
+#define M 100
+
+#define MAX(a,b) \
+    ({ __typeof__ (a) _a = (a); \
+    __typeof__ (b) _b = (b); \
+    _a > _b ? _a : _b; })
+
+double compute_error(double * solution[], double * u[], const int m, const int iters);
+void sor(double *unew[], double *uold[], double *solution[], double omega, double tol, int m, int iters);
+
+int main(int argc, char ** argv)
+{
+    /*  Solution of Laplace's Equation.
+! ***
+! ***  Uxx + Uyy = 0
+! ***  0 <= x <= pi, 0 <= y <= pi
+! ***  U(x,pi) = sin(x), U(x,0) = U(0,y) = U(pi,y) = 0
+! ***
+! ***  then U(x,y) = (sinh(y)*sin(x)) / sinh(pi)
+! ***
+! ***  Should converge with
+! ***            tol = 0.001 and M = 20  in  42 iterations.
+! ***   and with tol = 0.001 and M = 100 in 198 iterations. */
+
+    double pi;
+    
+    double * unew[M + 2];
+    double * solution[M + 2];
+    
+    double * uold[M + 2];
+    
+    double omega, tol, h;
+    
+    int i, j, iters;
+
+    for(i = 0; i < M + 1; ++i)
+    {
+	unew[i] = malloc((M + 2) * sizeof(double));
+        solution[i] = malloc((M + 2) * sizeof(double));
+	uold[i] = malloc((M + 2) * sizeof(double));
+    }
+    
+    // Initialization
+    for(i = 0; i < M + 1; ++i)
+    {
+        for(j = 0; j < M + 1; ++j)
+	{
+	    unew[i][j] = 0;
+	    uold[i][j] = 0;
+	    solution[i][j] = 0;
+	}
+    }
+    
+    pi = 4.0 * atan(1.0);
+    
+    h = pi / (M + 1);
+    
+    for(i = 0; i < M + 1; ++i)
+    {
+        uold[i][M + 1] = sin(i * h);
+    }
+
+    for(i = 0; i < M + 1; ++i)
+    {
+        for(j = 0; j < M; ++j)
+	{
+	    uold[i][j] = j * h * uold[i][M + 1];
+	}
+    }
+
+    for(i = 0; i < M + 1; ++i)
+    {
+        for(j = 0; j < M + 1; ++j)
+	{
+	    solution[i][j] = sinh(j * h) * sin(i * h) / sinh(pi);
+	}
+    }
+
+    omega = 2.0 / ( 1.0 + sin(pi / (M + 1)) );
+    tol = 0.001;
+
+    printf("%d\n", uold[0][0]);
+
+    sor(unew, uold, solution, omega, tol, M, iters);
+
+    printf(" \n");
+    printf(" Omega = %f\n", omega);
+    printf(" It took %d iterations.\n", iters);
+
+    return 0;
+}
+
+double compute_error(double *solution[], double *u[], const int m, const int iters)
+{
+    double error = 0.0;
+    int i, j;
+    
+    for(i = 0; i < m; ++i)
+    {
+	for(j = 0; j < m; ++j)
+	{
+	    error = MAX(error, abs(solution[i][j] - u[i][j]));
+	}
+    }
+
+    printf("On iteration %d error = %f\n", iters, error);
+
+    return error;
+}
+
+void sor(double *unew[], double *uold[], double *solution[], double omega, double tol, int m, int iters)
+{
+    double error;
+    int i, j;
+
+    printf("%d\n", uold[m][m]);
+
+    for(i = 0; i < m + 1; ++i)
+    {
+	printf("%d\n", i);
+	unew[i][m + 1] = uold[i][m + 1];
+	unew[m + 1][i] = uold[m + 1][i];
+	unew[i][0] = uold[i][0];
+	unew[0][i] = uold[0][i];
+    }
+    
+    iters = 0;
+    error = compute_error(solution, uold, m, iters);
+
+    while(error > tol)
+    {
+	for(j = 1; i < m; ++i)
+	{
+	    for(i = 1; j < m; ++j)
+	    { 
+		unew[i][j] = uold[i][j] + 0.25 * omega *
+                             (unew[i - 1][j] + unew[i][j - 1] +
+                             uold[i + 1][j] + uold[i][j + 1] -
+                             4.0 * uold[i][j]);		
+	    }
+	}
+    
+	for(j = 1; i < m; ++i)
+	{
+	    for(i = 1; j < m; ++j)
+	    { 
+		uold[i][j] = unew[i][j];
+	    }
+	}
+	
+	iters += 1;
+	
+	if(iters % 20 == 0)
+	{
+	    error = compute_error(solution, uold, m, iters);
+	}
+    }
+}

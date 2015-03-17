@@ -1,0 +1,24 @@
+#!/bin/sh
+#
+# request Bourne shell as shell for job
+#$ -S /bin/sh
+#
+# use current working directory
+#$ -cwd
+#
+# join the output and error output in one file
+#$ -j y
+#
+# use the par environment for parallel jobs
+#$ -pe par 12
+#
+# set up affinity mask (defines cores on which to run threads)
+export GOMP_CPU_AFFINITY="0,1,2,3,4,5,6,7"
+# compact (4 cores on 1 proc)
+#export GOMP_CPU_AFFINITY="0,4,8,12"
+# scattered (1 core on each of 4 procs)
+#export GOMP_CPU_AFFINITY="0,1,2,3"
+
+./aquad
+
+

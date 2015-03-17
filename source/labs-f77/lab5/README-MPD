@@ -1,0 +1,13 @@
+Begin by placing in your home directory a file named .mpd.conf
+    (/etc/mpd.conf if root), containing the line 
+
+    secretword=<secretword>
+
+    where <secretword> is a string known only to yourself.  It should
+    NOT be your normal Unix password.  Make this file readable and
+    writable only by you:
+
+      chmod 600 .mpd.conf
+
+Then, at the command line, execute:
+$mpd&

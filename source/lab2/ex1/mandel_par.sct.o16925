@@ -1,0 +1,180 @@
+Running on 1 threads
+ Succesfully Created timer 'series'
+ Succesfully Created timer 'monte'
+ Succesfully Created timer 'Series+monte'
+ Pi/2 =    1.5707963217946630       +/-   2.00000000000000004E-008
+ Area of Mandelbrot set =    1.5106500387191772       +/-   2.75805712646394214E-003
+ Timer 'series' information
+   Calls            1
+   Total Time    1.2019421048462391     
+   Time Per Call    1.2019421048462391     
+ Timer 'monte' information
+   Calls            1
+   Total Time    33.308000655844808     
+   Time Per Call    33.308000655844808     
+ Timer 'Series+monte' information
+   Calls            1
+   Total Time    34.509944135323167     
+   Time Per Call    34.509944135323167     
+Running on 2 threads
+ Succesfully Created timer 'series'
+ Succesfully Created timer 'monte'
+ Succesfully Created timer 'Series+monte'
+ Pi/2 =    1.5707963217946630       +/-   2.00000000000000004E-008
+ Area of Mandelbrot set =    1.5106500387191772       +/-   2.75805712646394214E-003
+ Timer 'series' information
+   Calls            1
+   Total Time    1.2065515127032995     
+   Time Per Call    1.2065515127032995     
+ Timer 'monte' information
+   Calls            1
+   Total Time    16.813758540898561     
+   Time Per Call    16.813758540898561     
+ Timer 'Series+monte' information
+   Calls            1
+   Total Time    18.020311448723078     
+   Time Per Call    18.020311448723078     
+Running on 3 threads
+ Succesfully Created timer 'series'
+ Succesfully Created timer 'monte'
+ Succesfully Created timer 'Series+monte'
+ Pi/2 =    1.5707963217946630       +/-   2.00000000000000004E-008
+ Area of Mandelbrot set =    1.5106500387191772       +/-   2.75805712646394214E-003
+ Timer 'series' information
+   Calls            1
+   Total Time    1.2111726813018322     
+   Time Per Call    1.2111726813018322     
+ Timer 'monte' information
+   Calls            1
+   Total Time    11.209950767457485     
+   Time Per Call    11.209950767457485     
+ Timer 'Series+monte' information
+   Calls            1
+   Total Time    12.421124879270792     
+   Time Per Call    12.421124879270792     
+Running on 4 threads
+ Succesfully Created timer 'series'
+ Succesfully Created timer 'monte'
+ Succesfully Created timer 'Series+monte'
+ Pi/2 =    1.5707963217946630       +/-   2.00000000000000004E-008
+ Area of Mandelbrot set =    1.5106500387191772       +/-   2.75805712646394214E-003
+ Timer 'series' information
+   Calls            1
+   Total Time    1.2069551460444927     
+   Time Per Call    1.2069551460444927     
+ Timer 'monte' information
+   Calls            1
+   Total Time    8.4423035811632872     
+   Time Per Call    8.4423035811632872     
+ Timer 'Series+monte' information
+   Calls            1
+   Total Time    9.6492601241916418     
+   Time Per Call    9.6492601241916418     
+Running on 6 threads
+ Succesfully Created timer 'series'
+ Succesfully Created timer 'monte'
+ Succesfully Created timer 'Series+monte'
+ Pi/2 =    1.5707963217946630       +/-   2.00000000000000004E-008
+ Area of Mandelbrot set =    1.5106500387191772       +/-   2.75805712646394214E-003
+ Timer 'series' information
+   Calls            1
+   Total Time    1.2105188947170973     
+   Time Per Call    1.2105188947170973     
+ Timer 'monte' information
+   Calls            1
+   Total Time    5.6123509202152491     
+   Time Per Call    5.6123509202152491     
+ Timer 'Series+monte' information
+   Calls            1
+   Total Time    6.8228711504489183     
+   Time Per Call    6.8228711504489183     
+Running on 8 threads
+ Succesfully Created timer 'series'
+ Succesfully Created timer 'monte'
+ Succesfully Created timer 'Series+monte'
+ Pi/2 =    1.5707963217946630       +/-   2.00000000000000004E-008
+ Area of Mandelbrot set =    1.5106500387191772       +/-   2.75805712646394214E-003
+ Timer 'series' information
+   Calls            1
+   Total Time    1.2105865627527237     
+   Time Per Call    1.2105865627527237     
+ Timer 'monte' information
+   Calls            1
+   Total Time    4.2600531447678804     
+   Time Per Call    4.2600531447678804     
+ Timer 'Series+monte' information
+   Calls            1
+   Total Time    5.4706409461796284     
+   Time Per Call    5.4706409461796284     
+Running on 12 threads
+ Succesfully Created timer 'series'
+ Succesfully Created timer 'monte'
+ Succesfully Created timer 'Series+monte'
+ Pi/2 =    1.5707963217946630       +/-   2.00000000000000004E-008
+ Area of Mandelbrot set =    1.5106500387191772       +/-   2.75805712646394214E-003
+ Timer 'series' information
+   Calls            1
+   Total Time    1.2096219807863235     
+   Time Per Call    1.2096219807863235     
+ Timer 'monte' information
+   Calls            1
+   Total Time    2.8595116361975670     
+   Time Per Call    2.8595116361975670     
+ Timer 'Series+monte' information
+   Calls            1
+   Total Time    4.0691356714814901     
+   Time Per Call    4.0691356714814901     
+Running on 24 threads
+ Succesfully Created timer 'series'
+ Succesfully Created timer 'monte'
+ Succesfully Created timer 'Series+monte'
+ Pi/2 =   7.20417571195010516E-311  +/-   7.13627184663229952E-311
+ Area of Mandelbrot set =    1.5106500387191772       +/-   2.75805712646394214E-003
+ Timer 'series' information
+   Calls            1
+   Total Time    1.2035587951540947     
+   Time Per Call    1.2035587951540947     
+ Timer 'monte' information
+   Calls            1
+   Total Time    1.4414150491356850     
+   Time Per Call    1.4414150491356850     
+ Timer 'Series+monte' information
+   Calls            1
+   Total Time    2.6449750382453203     
+   Time Per Call    2.6449750382453203     
+Running on 30 threads
+ Succesfully Created timer 'series'
+ Succesfully Created timer 'monte'
+ Succesfully Created timer 'Series+monte'
+ Pi/2 =   5.67209475059304332E-311  +/-   5.63389882633837612E-311
+ Area of Mandelbrot set =    1.5106500387191772       +/-   2.75805712646394214E-003
+ Timer 'series' information
+   Calls            1
+   Total Time    1.2087761964648962     
+   Time Per Call    1.2087761964648962     
+ Timer 'monte' information
+   Calls            1
+   Total Time    1.1546840537339449     
+   Time Per Call    1.1546840537339449     
+ Timer 'Series+monte' information
+   Calls            1
+   Total Time    2.3634619675576687     
+   Time Per Call    2.3634619675576687     
+Running on 36 threads
+ Succesfully Created timer 'series'
+ Succesfully Created timer 'monte'
+ Succesfully Created timer 'Series+monte'
+ Pi/2 =   4.68536670753036064E-311  +/-   4.74266059390470342E-311
+ Area of Mandelbrot set =    1.5106500387191772       +/-   2.75805712646394214E-003
+ Timer 'series' information
+   Calls            1
+   Total Time    1.2087448667734861     
+   Time Per Call    1.2087448667734861     
+ Timer 'monte' information
+   Calls            1
+   Total Time    1.0121302157640457     
+   Time Per Call    1.0121302157640457     
+ Timer 'Series+monte' information
+   Calls            1
+   Total Time    2.2208772618323565     
+   Time Per Call    2.2208772618323565     

@@ -1,0 +1,20 @@
+#!/bin/sh
+#
+# request Bourne shell as shell for job
+#$ -S /bin/sh
+#
+# use current working directory
+#$ -cwd
+#
+# join the output and error output in one file
+#$ -j y
+#
+# use the par environment for parallel jobs
+#$ -pe par 12
+#
+# set up affinity mask (defines cores on which to run threads)
+# default mask
+export GOMP_CPU_AFFINITY="0,1,2,3,4,5,6,7"
+
+./sblas
+

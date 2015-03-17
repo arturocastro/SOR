@@ -1,0 +1,628 @@
+Running on 1 mpi processes
+ Process            0  of            1  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+Fatal error in PMPI_Scatter: Invalid buffer pointer, error stack:
+PMPI_Scatter(783): MPI_Scatter(sbuf=0x6e4ce0, scount=61440, MPI_DOUBLE_PRECISION, rbuf=0x6e4ce0, rcount=61440, MPI_DOUBLE_PRECISION, root=0, MPI_COMM_WORLD) failed
+PMPI_Scatter(710): Buffers must not be aliased
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+ Process            0  of            1  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+Fatal error in PMPI_Scatter: Invalid buffer pointer, error stack:
+PMPI_Scatter(783): MPI_Scatter(sbuf=0x6e4ce0, scount=61440, MPI_DOUBLE_PRECISION, rbuf=0x6e4ce0, rcount=61440, MPI_DOUBLE_PRECISION, root=0, MPI_COMM_WORLD) failed
+PMPI_Scatter(710): Buffers must not be aliased
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+ Process            0  of            1  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+Fatal error in PMPI_Scatter: Invalid buffer pointer, error stack:
+PMPI_Scatter(783): MPI_Scatter(sbuf=0x6e4ce0, scount=61440, MPI_DOUBLE_PRECISION, rbuf=0x6e4ce0, rcount=61440, MPI_DOUBLE_PRECISION, root=0, MPI_COMM_WORLD) failed
+PMPI_Scatter(710): Buffers must not be aliased
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+ Process            0  of            1  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+Fatal error in PMPI_Scatter: Invalid buffer pointer, error stack:
+PMPI_Scatter(783): MPI_Scatter(sbuf=0x6e4ce0, scount=61440, MPI_DOUBLE_PRECISION, rbuf=0x6e4ce0, rcount=61440, MPI_DOUBLE_PRECISION, root=0, MPI_COMM_WORLD) failed
+PMPI_Scatter(710): Buffers must not be aliased
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+ Process            0  of            1  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+Fatal error in PMPI_Scatter: Invalid buffer pointer, error stack:
+PMPI_Scatter(783): MPI_Scatter(sbuf=0x6e4ce0, scount=61440, MPI_DOUBLE_PRECISION, rbuf=0x6e4ce0, rcount=61440, MPI_DOUBLE_PRECISION, root=0, MPI_COMM_WORLD) failed
+PMPI_Scatter(710): Buffers must not be aliased
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+ Process            0  of            1  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+Fatal error in PMPI_Scatter: Invalid buffer pointer, error stack:
+PMPI_Scatter(783): MPI_Scatter(sbuf=0x6e4ce0, scount=61440, MPI_DOUBLE_PRECISION, rbuf=0x6e4ce0, rcount=61440, MPI_DOUBLE_PRECISION, root=0, MPI_COMM_WORLD) failed
+PMPI_Scatter(710): Buffers must not be aliased
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+Running on 2 mpi processes
+ Process            0  of            2  is alive
+ Process            1  of            2  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+Fatal error in PMPI_Scatter: Invalid buffer pointer, error stack:
+PMPI_Scatter(783): MPI_Scatter(sbuf=0x6e4ce0, scount=30720, MPI_DOUBLE_PRECISION, rbuf=0x6e4ce0, rcount=30720, MPI_DOUBLE_PRECISION, root=0, MPI_COMM_WORLD) failed
+PMPI_Scatter(710): Buffers must not be aliased
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+ Process            0  of            2  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ Process            1  of            2  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+Fatal error in PMPI_Scatter: Invalid buffer pointer, error stack:
+PMPI_Scatter(783): MPI_Scatter(sbuf=0x6e4ce0, scount=30720, MPI_DOUBLE_PRECISION, rbuf=0x6e4ce0, rcount=30720, MPI_DOUBLE_PRECISION, root=0, MPI_COMM_WORLD) failed
+PMPI_Scatter(710): Buffers must not be aliased
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+ Process            0  of            2  is alive
+ Process            1  of            2  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+Fatal error in PMPI_Scatter: Invalid buffer pointer, error stack:
+PMPI_Scatter(783): MPI_Scatter(sbuf=0x6e4ce0, scount=30720, MPI_DOUBLE_PRECISION, rbuf=0x6e4ce0, rcount=30720, MPI_DOUBLE_PRECISION, root=0, MPI_COMM_WORLD) failed
+PMPI_Scatter(710): Buffers must not be aliased
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+ Process            0  of            2  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ Process            1  of            2  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+Fatal error in PMPI_Scatter: Invalid buffer pointer, error stack:
+PMPI_Scatter(783): MPI_Scatter(sbuf=0x6e4ce0, scount=30720, MPI_DOUBLE_PRECISION, rbuf=0x6e4ce0, rcount=30720, MPI_DOUBLE_PRECISION, root=0, MPI_COMM_WORLD) failed
+PMPI_Scatter(710): Buffers must not be aliased
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+ Process            0  of            2  is alive
+ Process            1  of            2  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+Fatal error in PMPI_Scatter: Invalid buffer pointer, error stack:
+PMPI_Scatter(783): MPI_Scatter(sbuf=0x6e4ce0, scount=30720, MPI_DOUBLE_PRECISION, rbuf=0x6e4ce0, rcount=30720, MPI_DOUBLE_PRECISION, root=0, MPI_COMM_WORLD) failed
+PMPI_Scatter(710): Buffers must not be aliased
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+ Process            0  of            2  is alive
+ Process            1  of            2  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+Fatal error in PMPI_Scatter: Invalid buffer pointer, error stack:
+PMPI_Scatter(783): MPI_Scatter(sbuf=0x6e4ce0, scount=30720, MPI_DOUBLE_PRECISION, rbuf=0x6e4ce0, rcount=30720, MPI_DOUBLE_PRECISION, root=0, MPI_COMM_WORLD) failed
+PMPI_Scatter(710): Buffers must not be aliased
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+Running on 4 mpi processes
+ Process            0  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ Process            1  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            2  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Process            3  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'trimv'
+Fatal error in PMPI_Scatter: Invalid buffer pointer, error stack:
+PMPI_Scatter(783): MPI_Scatter(sbuf=0x6e4ce0, scount=15360, MPI_DOUBLE_PRECISION, rbuf=0x6e4ce0, rcount=15360, MPI_DOUBLE_PRECISION, root=0, MPI_COMM_WORLD) failed
+PMPI_Scatter(710): Buffers must not be aliased
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+ Process            0  of            4  is alive
+ Process            1  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            2  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ Process            3  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+Fatal error in PMPI_Scatter: Invalid buffer pointer, error stack:
+PMPI_Scatter(783): MPI_Scatter(sbuf=0x6e4ce0, scount=15360, MPI_DOUBLE_PRECISION, rbuf=0x6e4ce0, rcount=15360, MPI_DOUBLE_PRECISION, root=0, MPI_COMM_WORLD) failed
+PMPI_Scatter(710): Buffers must not be aliased
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+ Process            2  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Process            3  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            0  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ Process            1  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'trimv'
+Fatal error in PMPI_Scatter: Invalid buffer pointer, error stack:
+PMPI_Scatter(783): MPI_Scatter(sbuf=0x6e4ce0, scount=15360, MPI_DOUBLE_PRECISION, rbuf=0x6e4ce0, rcount=15360, MPI_DOUBLE_PRECISION, root=0, MPI_COMM_WORLD) failed
+PMPI_Scatter(710): Buffers must not be aliased
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+ Process            0  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ Process            1  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            2  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            3  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+Fatal error in PMPI_Scatter: Invalid buffer pointer, error stack:
+PMPI_Scatter(783): MPI_Scatter(sbuf=0x6e4ce0, scount=15360, MPI_DOUBLE_PRECISION, rbuf=0x6e4ce0, rcount=15360, MPI_DOUBLE_PRECISION, root=0, MPI_COMM_WORLD) failed
+PMPI_Scatter(710): Buffers must not be aliased
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+ Process            0  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Process            1  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            2  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ Process            3  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+Fatal error in PMPI_Scatter: Invalid buffer pointer, error stack:
+PMPI_Scatter(783): MPI_Scatter(sbuf=0x6e4ce0, scount=15360, MPI_DOUBLE_PRECISION, rbuf=0x6e4ce0, rcount=15360, MPI_DOUBLE_PRECISION, root=0, MPI_COMM_WORLD) failed
+PMPI_Scatter(710): Buffers must not be aliased
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+ Process            3  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            0  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ Process            1  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            2  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+Fatal error in PMPI_Scatter: Invalid buffer pointer, error stack:
+PMPI_Scatter(783): MPI_Scatter(sbuf=0x6e4ce0, scount=15360, MPI_DOUBLE_PRECISION, rbuf=0x6e4ce0, rcount=15360, MPI_DOUBLE_PRECISION, root=0, MPI_COMM_WORLD) failed
+PMPI_Scatter(710): Buffers must not be aliased
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+Running on 8 mpi processes
+ Process            0  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ Process            1  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            2  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            3  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            4  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            5  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            6  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            7  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+Fatal error in PMPI_Scatter: Invalid buffer pointer, error stack:
+PMPI_Scatter(783): MPI_Scatter(sbuf=0x6e4ce0, scount=7680, MPI_DOUBLE_PRECISION, rbuf=0x6e4ce0, rcount=7680, MPI_DOUBLE_PRECISION, root=0, MPI_COMM_WORLD) failed
+PMPI_Scatter(710): Buffers must not be aliased
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+ Process            6  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            3  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Process            4  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Process            7  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Process            0  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ Process            2  of            8  is alive
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            5  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'trimv'
+ Process            1  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+Fatal error in PMPI_Scatter: Invalid buffer pointer, error stack:
+PMPI_Scatter(783): MPI_Scatter(sbuf=0x6e4ce0, scount=7680, MPI_DOUBLE_PRECISION, rbuf=0x6e4ce0, rcount=7680, MPI_DOUBLE_PRECISION, root=0, MPI_COMM_WORLD) failed
+PMPI_Scatter(710): Buffers must not be aliased
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+ Process            0  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ Process            1  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            2  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            3  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            4  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            5  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            6  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            7  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+Fatal error in PMPI_Scatter: Invalid buffer pointer, error stack:
+PMPI_Scatter(783): MPI_Scatter(sbuf=0x6e4ce0, scount=7680, MPI_DOUBLE_PRECISION, rbuf=0x6e4ce0, rcount=7680, MPI_DOUBLE_PRECISION, root=0, MPI_COMM_WORLD) failed
+PMPI_Scatter(710): Buffers must not be aliased
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+ Process            0  of            8  is alive
+ Process            3  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            4  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            5  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            1  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            6  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            7  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            2  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+Fatal error in PMPI_Scatter: Invalid buffer pointer, error stack:
+PMPI_Scatter(783): MPI_Scatter(sbuf=0x6e4ce0, scount=7680, MPI_DOUBLE_PRECISION, rbuf=0x6e4ce0, rcount=7680, MPI_DOUBLE_PRECISION, root=0, MPI_COMM_WORLD) failed
+PMPI_Scatter(710): Buffers must not be aliased
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+ Process            4  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            0  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ Process            1  of            8  is alive
+ Process            5  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            6  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            2  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            3  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            7  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+Fatal error in PMPI_Scatter: Invalid buffer pointer, error stack:
+PMPI_Scatter(783): MPI_Scatter(sbuf=0x6e4ce0, scount=7680, MPI_DOUBLE_PRECISION, rbuf=0x6e4ce0, rcount=7680, MPI_DOUBLE_PRECISION, root=0, MPI_COMM_WORLD) failed
+PMPI_Scatter(710): Buffers must not be aliased
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+ Process            0  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ Process            1  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            2  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            3  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            4  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            5  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            6  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            7  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+Fatal error in PMPI_Scatter: Invalid buffer pointer, error stack:
+PMPI_Scatter(783): MPI_Scatter(sbuf=0x6e4ce0, scount=7680, MPI_DOUBLE_PRECISION, rbuf=0x6e4ce0, rcount=7680, MPI_DOUBLE_PRECISION, root=0, MPI_COMM_WORLD) failed
+PMPI_Scatter(710): Buffers must not be aliased
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================

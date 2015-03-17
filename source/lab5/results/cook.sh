@@ -1,0 +1,1 @@
+grep -A204 "Running on 2" batch_1_raw | grep -A3 "Timer 'vecadd" | grep Total | awk ' { printf("%.20f\n", $NF); }' | sort

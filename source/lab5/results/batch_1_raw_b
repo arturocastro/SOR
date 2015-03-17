@@ -1,0 +1,1198 @@
+Running on 1 mpi processes
+ Process            0  of            1  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.28399991989136      x(n) =    6.28399991989136     
+ Sum of x() =    386088.955078125     
+ y(1) =    6.28399991989136      y(m) =    3217.40795898438     
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   0.449851036071777     
+   Time Per Call   4.498510360717773E-004
+ Timer 'trimv' information
+   Calls         1000
+   Total Time    1.64804244041443     
+   Time Per Call   1.648042440414429E-003
+ Timer 'total' information
+   Calls            1
+   Total Time    6.62673115730286     
+   Time Per Call    6.62673115730286     
+ myid=            0
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.848115682601929     
+   Time Per Call   8.481156826019287E-004
+ Process            0  of            1  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.28399991989136      x(n) =    6.28399991989136     
+ Sum of x() =    386088.955078125     
+ y(1) =    6.28399991989136      y(m) =    3217.40795898438     
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   0.449667692184448     
+   Time Per Call   4.496676921844482E-004
+ Timer 'trimv' information
+   Calls         1000
+   Total Time    1.64628720283508     
+   Time Per Call   1.646287202835083E-003
+ Timer 'total' information
+   Calls            1
+   Total Time    6.64241290092468     
+   Time Per Call    6.64241290092468     
+ myid=            0
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.847912549972534     
+   Time Per Call   8.479125499725341E-004
+ Process            0  of            1  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.28399991989136      x(n) =    6.28399991989136     
+ Sum of x() =    386088.955078125     
+ y(1) =    6.28399991989136      y(m) =    3217.40795898438     
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   0.450414180755615     
+   Time Per Call   4.504141807556152E-004
+ Timer 'trimv' information
+   Calls         1000
+   Total Time    1.64996981620789     
+   Time Per Call   1.649969816207886E-003
+ Timer 'total' information
+   Calls            1
+   Total Time    6.62331295013428     
+   Time Per Call    6.62331295013428     
+ myid=            0
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.848654747009277     
+   Time Per Call   8.486547470092774E-004
+ Process            0  of            1  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.28399991989136      x(n) =    6.28399991989136     
+ Sum of x() =    386088.955078125     
+ y(1) =    6.28399991989136      y(m) =    3217.40795898438     
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   0.449777126312256     
+   Time Per Call   4.497771263122558E-004
+ Timer 'trimv' information
+   Calls         1000
+   Total Time    1.64728569984436     
+   Time Per Call   1.647285699844360E-003
+ Timer 'total' information
+   Calls            1
+   Total Time    6.62694716453552     
+   Time Per Call    6.62694716453552     
+ myid=            0
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.848308801651001     
+   Time Per Call   8.483088016510010E-004
+ Process            0  of            1  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.28399991989136      x(n) =    6.28399991989136     
+ Sum of x() =    386088.955078125     
+ y(1) =    6.28399991989136      y(m) =    3217.40795898438     
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   0.449770689010620     
+   Time Per Call   4.497706890106201E-004
+ Timer 'trimv' information
+   Calls         1000
+   Total Time    1.64614629745483     
+   Time Per Call   1.646146297454834E-003
+ Timer 'total' information
+   Calls            1
+   Total Time    6.64317607879639     
+   Time Per Call    6.64317607879639     
+ myid=            0
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.848298788070679     
+   Time Per Call   8.482987880706787E-004
+ Process            0  of            1  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.28399991989136      x(n) =    6.28399991989136     
+ Sum of x() =    386088.955078125     
+ y(1) =    6.28399991989136      y(m) =    3217.40795898438     
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   0.450163841247559     
+   Time Per Call   4.501638412475586E-004
+ Timer 'trimv' information
+   Calls         1000
+   Total Time    1.64908695220947     
+   Time Per Call   1.649086952209473E-003
+ Timer 'total' information
+   Calls            1
+   Total Time    6.64137911796570     
+   Time Per Call    6.64137911796570     
+ myid=            0
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.849803686141968     
+   Time Per Call   8.498036861419678E-004
+Running on 2 mpi processes
+ Process            0  of            2  is alive
+ Process            1  of            2  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ myid=            1
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.76036858558655     
+   Time Per Call   6.760368585586548E-003
+ x(1) =    6.28399991989136      x(n) =    6.28399991989136     
+ Sum of x() =    386088.955078125     
+ y(1) =    6.28399991989136      y(m) =    3217.40795898438     
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   0.451151609420776     
+   Time Per Call   4.511516094207764E-004
+ Timer 'trimv' information
+   Calls         1000
+   Total Time    1.65302562713623     
+   Time Per Call   1.653025627136231E-003
+ Timer 'total' information
+   Calls            1
+   Total Time    6.76402783393860     
+   Time Per Call    6.76402783393860     
+ myid=            0
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.980037927627563     
+   Time Per Call   9.800379276275635E-004
+ Process            0  of            2  is alive
+ Process            1  of            2  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ myid=            1
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.85356092453003     
+   Time Per Call   6.853560924530030E-003
+ x(1) =    6.28399991989136      x(n) =    6.28399991989136     
+ Sum of x() =    386088.955078125     
+ y(1) =    6.28399991989136      y(m) =    3217.40795898438     
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   0.450524568557739     
+   Time Per Call   4.505245685577392E-004
+ Timer 'trimv' information
+   Calls         1000
+   Total Time    1.64973545074463     
+   Time Per Call   1.649735450744629E-003
+ Timer 'total' information
+   Calls            1
+   Total Time    6.85724401473999     
+   Time Per Call    6.85724401473999     
+ myid=            0
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    1.08493208885193     
+   Time Per Call   1.084932088851929E-003
+ Process            0  of            2  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ Process            1  of            2  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ myid=            1
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.68021726608276     
+   Time Per Call   6.680217266082764E-003
+ x(1) =    6.28399991989136      x(n) =    6.28399991989136     
+ Sum of x() =    386088.955078125     
+ y(1) =    6.28399991989136      y(m) =    3217.40795898438     
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   0.451324939727783     
+   Time Per Call   4.513249397277832E-004
+ Timer 'trimv' information
+   Calls         1000
+   Total Time    1.65042805671692     
+   Time Per Call   1.650428056716919E-003
+ Timer 'total' information
+   Calls            1
+   Total Time    6.68397808074951     
+   Time Per Call    6.68397808074951     
+ myid=            0
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.911391019821167     
+   Time Per Call   9.113910198211670E-004
+ Process            1  of            2  is alive
+ Process            0  of            2  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ myid=            1
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.80709671974182     
+   Time Per Call   6.807096719741821E-003
+ x(1) =    6.28399991989136      x(n) =    6.28399991989136     
+ Sum of x() =    386088.955078125     
+ y(1) =    6.28399991989136      y(m) =    3217.40795898438     
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   0.451337814331055     
+   Time Per Call   4.513378143310547E-004
+ Timer 'trimv' information
+   Calls         1000
+   Total Time    1.65171766281128     
+   Time Per Call   1.651717662811279E-003
+ Timer 'total' information
+   Calls            1
+   Total Time    6.81083011627197     
+   Time Per Call    6.81083011627197     
+ myid=            0
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.989572286605835     
+   Time Per Call   9.895722866058350E-004
+ Process            0  of            2  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ Process            1  of            2  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ myid=            1
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.90085577964783     
+   Time Per Call   6.900855779647827E-003
+ x(1) =    6.28399991989136      x(n) =    6.28399991989136     
+ Sum of x() =    386088.955078125     
+ y(1) =    6.28399991989136      y(m) =    3217.40795898438     
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   0.451256513595581     
+   Time Per Call   4.512565135955811E-004
+ Timer 'trimv' information
+   Calls         1000
+   Total Time    1.65110468864441     
+   Time Per Call   1.651104688644409E-003
+ Timer 'total' information
+   Calls            1
+   Total Time    6.90467095375061     
+   Time Per Call    6.90467095375061     
+ myid=            0
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    1.09866046905518     
+   Time Per Call   1.098660469055176E-003
+ Process            0  of            2  is alive
+ Process            1  of            2  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ myid=            1
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.69020247459412     
+   Time Per Call   6.690202474594116E-003
+ x(1) =    6.28399991989136      x(n) =    6.28399991989136     
+ Sum of x() =    386088.955078125     
+ y(1) =    6.28399991989136      y(m) =    3217.40795898438     
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   0.452908277511597     
+   Time Per Call   4.529082775115967E-004
+ Timer 'trimv' information
+   Calls         1000
+   Total Time    1.65405273437500     
+   Time Per Call   1.654052734375000E-003
+ Timer 'total' information
+   Calls            1
+   Total Time    6.69399404525757     
+   Time Per Call    6.69399404525757     
+ myid=            0
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.895486116409302     
+   Time Per Call   8.954861164093017E-004
+Running on 4 mpi processes
+ Process            0  of            4  is alive
+ Process            1  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ Process            2  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            3  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ myid=            1
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    7.11002993583679     
+   Time Per Call   7.110029935836792E-003
+ myid=            2
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    7.11020231246948     
+   Time Per Call   7.110202312469482E-003
+ myid=            3
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    7.11033916473389     
+   Time Per Call   7.110339164733886E-003
+ x(1) =    6.28399991989136      x(n) =    6.28399991989136     
+ Sum of x() =    386088.955078125     
+ y(1) =    6.28399991989136      y(m) =    3217.40795898438     
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   0.450893878936768     
+   Time Per Call   4.508938789367676E-004
+ Timer 'trimv' information
+   Calls         1000
+   Total Time    1.64855933189392     
+   Time Per Call   1.648559331893921E-003
+ Timer 'total' information
+   Calls            1
+   Total Time    7.11399102210999     
+   Time Per Call    7.11399102210999     
+ myid=            0
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    1.33276104927063     
+   Time Per Call   1.332761049270630E-003
+ Process            2  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            0  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ Process            1  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            3  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ myid=            1
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.96076822280884     
+   Time Per Call   6.960768222808838E-003
+ myid=            2
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.96095943450928     
+   Time Per Call   6.960959434509278E-003
+ myid=            3
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.96109247207642     
+   Time Per Call   6.961092472076416E-003
+ x(1) =    6.28399991989136      x(n) =    6.28399991989136     
+ Sum of x() =    386088.955078125     
+ y(1) =    6.28399991989136      y(m) =    3217.40795898438     
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   0.451239347457886     
+   Time Per Call   4.512393474578857E-004
+ Timer 'trimv' information
+   Calls         1000
+   Total Time    1.64754986763000     
+   Time Per Call   1.647549867630005E-003
+ Timer 'total' information
+   Calls            1
+   Total Time    6.96471595764160     
+   Time Per Call    6.96471595764160     
+ myid=            0
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    1.16277360916138     
+   Time Per Call   1.162773609161377E-003
+ Process            0  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ Process            1  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            2  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            3  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ myid=            1
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    7.00728988647461     
+   Time Per Call   7.007289886474610E-003
+ myid=            2
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    7.00744915008545     
+   Time Per Call   7.007449150085449E-003
+ myid=            3
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    7.00752496719360     
+   Time Per Call   7.007524967193603E-003
+ x(1) =    6.28399991989136      x(n) =    6.28399991989136     
+ Sum of x() =    386088.955078125     
+ y(1) =    6.28399991989136      y(m) =    3217.40795898438     
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   0.450944423675537     
+   Time Per Call   4.509444236755371E-004
+ Timer 'trimv' information
+   Calls         1000
+   Total Time    1.64884328842163     
+   Time Per Call   1.648843288421631E-003
+ Timer 'total' information
+   Calls            1
+   Total Time    7.01122403144836     
+   Time Per Call    7.01122403144836     
+ myid=            0
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    1.21544098854065     
+   Time Per Call   1.215440988540649E-003
+ Process            0  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            3  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ Process            1  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            2  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ myid=            1
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    7.09944605827332     
+   Time Per Call   7.099446058273316E-003
+ myid=            2
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    7.09965038299561     
+   Time Per Call   7.099650382995606E-003
+ myid=            3
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    7.09980988502502     
+   Time Per Call   7.099809885025024E-003
+ x(1) =    6.28399991989136      x(n) =    6.28399991989136     
+ Sum of x() =    386088.955078125     
+ y(1) =    6.28399991989136      y(m) =    3217.40795898438     
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   0.450985193252563     
+   Time Per Call   4.509851932525635E-004
+ Timer 'trimv' information
+   Calls         1000
+   Total Time    1.65075564384460     
+   Time Per Call   1.650755643844604E-003
+ Timer 'total' information
+   Calls            1
+   Total Time    7.10349202156067     
+   Time Per Call    7.10349202156067     
+ myid=            0
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    1.29195117950439     
+   Time Per Call   1.291951179504395E-003
+ Process            0  of            4  is alive
+ Process            1  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            3  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ Process            2  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ myid=            1
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    7.19069266319275     
+   Time Per Call   7.190692663192749E-003
+ myid=            2
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    7.19078350067139     
+   Time Per Call   7.190783500671386E-003
+ myid=            3
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    7.19100642204285     
+   Time Per Call   7.191006422042847E-003
+ x(1) =    6.28399991989136      x(n) =    6.28399991989136     
+ Sum of x() =    386088.955078125     
+ y(1) =    6.28399991989136      y(m) =    3217.40795898438     
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   0.450699329376221     
+   Time Per Call   4.506993293762207E-004
+ Timer 'trimv' information
+   Calls         1000
+   Total Time    1.64781570434570     
+   Time Per Call   1.647815704345703E-003
+ Timer 'total' information
+   Calls            1
+   Total Time    7.19466805458069     
+   Time Per Call    7.19466805458069     
+ myid=            0
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    1.36736488342285     
+   Time Per Call   1.367364883422852E-003
+ Process            0  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Process            1  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ Process            2  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            3  of            4  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ myid=            1
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.98303961753845     
+   Time Per Call   6.983039617538453E-003
+ myid=            2
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.98310756683350     
+   Time Per Call   6.983107566833496E-003
+ myid=            3
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.98324990272522     
+   Time Per Call   6.983249902725220E-003
+ x(1) =    6.28399991989136      x(n) =    6.28399991989136     
+ Sum of x() =    386088.955078125     
+ y(1) =    6.28399991989136      y(m) =    3217.40795898438     
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   0.449689388275146     
+   Time Per Call   4.496893882751465E-004
+ Timer 'trimv' information
+   Calls         1000
+   Total Time    1.64779996871948     
+   Time Per Call   1.647799968719482E-003
+ Timer 'total' information
+   Calls            1
+   Total Time    6.98697304725647     
+   Time Per Call    6.98697304725647     
+ myid=            0
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    1.22449183464050     
+   Time Per Call   1.224491834640503E-003
+Running on 8 mpi processes
+ Process            0  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ Process            1  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            2  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            3  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            4  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            5  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            6  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            7  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ myid=            1
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.84939241409302     
+   Time Per Call   6.849392414093018E-003
+ myid=            2
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.84961533546448     
+   Time Per Call   6.849615335464477E-003
+ myid=            3
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.84963464736938     
+   Time Per Call   6.849634647369385E-003
+ myid=            4
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.84977316856384     
+   Time Per Call   6.849773168563843E-003
+ myid=            5
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.84980344772339     
+   Time Per Call   6.849803447723389E-003
+ myid=            6
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.84994697570801     
+   Time Per Call   6.849946975708007E-003
+ myid=            7
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.85006070137024     
+   Time Per Call   6.850060701370239E-003
+ x(1) =    6.28399991989136      x(n) =    6.28399991989136     
+ Sum of x() =    386088.955078125     
+ y(1) =    6.28399991989136      y(m) =    3217.40795898438     
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   0.450628995895386     
+   Time Per Call   4.506289958953858E-004
+ Timer 'trimv' information
+   Calls         1000
+   Total Time    1.65360617637634     
+   Time Per Call   1.653606176376343E-003
+ Timer 'total' information
+   Calls            1
+   Total Time    6.85385298728943     
+   Time Per Call    6.85385298728943     
+ myid=            0
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    1.01226377487183     
+   Time Per Call   1.012263774871826E-003
+ Process            0  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ Process            2  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            4  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            6  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            1  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            3  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            5  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            7  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ myid=            1
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.69590187072754     
+   Time Per Call   6.695901870727539E-003
+ myid=            2
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.69596457481384     
+   Time Per Call   6.695964574813843E-003
+ myid=            3
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.69603037834167     
+   Time Per Call   6.696030378341675E-003
+ myid=            4
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.69611835479736     
+   Time Per Call   6.696118354797363E-003
+ myid=            5
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.69623851776123     
+   Time Per Call   6.696238517761231E-003
+ myid=            6
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.69629073143005     
+   Time Per Call   6.696290731430053E-003
+ myid=            7
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.69637274742126     
+   Time Per Call   6.696372747421265E-003
+ x(1) =    6.28399991989136      x(n) =    6.28399991989136     
+ Sum of x() =    386088.955078125     
+ y(1) =    6.28399991989136      y(m) =    3217.40795898438     
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   0.451517581939697     
+   Time Per Call   4.515175819396972E-004
+ Timer 'trimv' information
+   Calls         1000
+   Total Time    1.65012955665588     
+   Time Per Call   1.650129556655884E-003
+ Timer 'total' information
+   Calls            1
+   Total Time    6.70015001296997     
+   Time Per Call    6.70015001296997     
+ myid=            0
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.893528938293457     
+   Time Per Call   8.935289382934570E-004
+ Process            5  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            7  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            0  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ Process            1  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            2  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            3  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            4  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            6  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ myid=            1
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.87231492996216     
+   Time Per Call   6.872314929962159E-003
+ myid=            2
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.87239551544189     
+   Time Per Call   6.872395515441895E-003
+ myid=            3
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.87248682975769     
+   Time Per Call   6.872486829757690E-003
+ myid=            4
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.87258625030518     
+   Time Per Call   6.872586250305176E-003
+ myid=            5
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.87272882461548     
+   Time Per Call   6.872728824615478E-003
+ myid=            6
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.87278866767883     
+   Time Per Call   6.872788667678833E-003
+ myid=            7
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.87293338775635     
+   Time Per Call   6.872933387756347E-003
+ x(1) =    6.28399991989136      x(n) =    6.28399991989136     
+ Sum of x() =    386088.955078125     
+ y(1) =    6.28399991989136      y(m) =    3217.40795898438     
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   0.451452732086182     
+   Time Per Call   4.514527320861816E-004
+ Timer 'trimv' information
+   Calls         1000
+   Total Time    1.65099453926086     
+   Time Per Call   1.650994539260864E-003
+ Timer 'total' information
+   Calls            1
+   Total Time    6.87670111656189     
+   Time Per Call    6.87670111656189     
+ myid=            0
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.987916946411133     
+   Time Per Call   9.879169464111328E-004
+ Process            0  of            8  is alive
+ Process            1  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            2  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            3  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            5  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            7  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ Process            6  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            4  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ myid=            1
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.81850481033325     
+   Time Per Call   6.818504810333252E-003
+ myid=            2
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.81857633590698     
+   Time Per Call   6.818576335906983E-003
+ myid=            6
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.81788754463196     
+   Time Per Call   6.817887544631958E-003
+ myid=            3
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.81866025924683     
+   Time Per Call   6.818660259246826E-003
+ myid=            7
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.81903052330017     
+   Time Per Call   6.819030523300171E-003
+ myid=            4
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.80882453918457     
+   Time Per Call   6.808824539184570E-003
+ myid=            5
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.81888318061829     
+   Time Per Call   6.818883180618286E-003
+ x(1) =    6.28399991989136      x(n) =    6.28399991989136     
+ Sum of x() =    386088.955078125     
+ y(1) =    6.28399991989136      y(m) =    3217.40795898438     
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   0.450735330581665     
+   Time Per Call   4.507353305816650E-004
+ Timer 'trimv' information
+   Calls         1000
+   Total Time    1.65776419639587     
+   Time Per Call   1.657764196395874E-003
+ Timer 'total' information
+   Calls            1
+   Total Time    6.82263422012329     
+   Time Per Call    6.82263422012329     
+ myid=            0
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.983761787414551     
+   Time Per Call   9.837617874145508E-004
+ Process            0  of            8  is alive
+ Process            1  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            2  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            3  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            4  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            6  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            7  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ Process            5  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ myid=            1
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.77434444427490     
+   Time Per Call   6.774344444274902E-003
+ myid=            2
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.77442264556885     
+   Time Per Call   6.774422645568848E-003
+ myid=            3
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.77451777458191     
+   Time Per Call   6.774517774581909E-003
+ myid=            4
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.77458572387695     
+   Time Per Call   6.774585723876953E-003
+ myid=            5
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.76475644111633     
+   Time Per Call   6.764756441116333E-003
+ myid=            6
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.77476191520691     
+   Time Per Call   6.774761915206909E-003
+ myid=            7
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.77480840682983     
+   Time Per Call   6.774808406829834E-003
+ x(1) =    6.28399991989136      x(n) =    6.28399991989136     
+ Sum of x() =    386088.955078125     
+ y(1) =    6.28399991989136      y(m) =    3217.40795898438     
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   0.451323747634888     
+   Time Per Call   4.513237476348877E-004
+ Timer 'trimv' information
+   Calls         1000
+   Total Time    1.64880657196045     
+   Time Per Call   1.648806571960449E-003
+ Timer 'total' information
+   Calls            1
+   Total Time    6.77841806411743     
+   Time Per Call    6.77841806411743     
+ myid=            0
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.956430673599243     
+   Time Per Call   9.564306735992432E-004
+ Process            0  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ Process            1  of            8  is alive
+ Process            2  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            3  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            4  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            5  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            6  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Process            7  of            8  is alive
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ myid=            1
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.85085916519165     
+   Time Per Call   6.850859165191650E-003
+ myid=            2
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.85112261772156     
+   Time Per Call   6.851122617721557E-003
+ myid=            3
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.85124206542969     
+   Time Per Call   6.851242065429687E-003
+ myid=            4
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.85133099555969     
+   Time Per Call   6.851330995559692E-003
+ myid=            5
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.85142350196838     
+   Time Per Call   6.851423501968384E-003
+ myid=            6
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.85156226158142     
+   Time Per Call   6.851562261581421E-003
+ myid=            7
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    6.85161948204041     
+   Time Per Call   6.851619482040406E-003
+ x(1) =    6.28399991989136      x(n) =    6.28399991989136     
+ Sum of x() =    386088.955078125     
+ y(1) =    6.28399991989136      y(m) =    3217.40795898438     
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   0.450851678848267     
+   Time Per Call   4.508516788482666E-004
+ Timer 'trimv' information
+   Calls         1000
+   Total Time    1.64786481857300     
+   Time Per Call   1.647864818572998E-003
+ Timer 'total' information
+   Calls            1
+   Total Time    6.85544204711914     
+   Time Per Call    6.85544204711914     
+ myid=            0
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time    1.00426459312439     
+   Time Per Call   1.004264593124390E-003

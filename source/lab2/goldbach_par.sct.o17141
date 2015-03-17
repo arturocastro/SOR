@@ -1,0 +1,910 @@
+Running on 1 threads
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    68.441073428839445     
+   Time Per Call    68.441073428839445     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    68.439980501309037     
+   Time Per Call    68.439980501309037     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    68.439628558233380     
+   Time Per Call    68.439628558233380     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    68.452945243567228     
+   Time Per Call    68.452945243567228     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    68.446711687371135     
+   Time Per Call    68.446711687371135     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    68.440876444801688     
+   Time Per Call    68.440876444801688     
+Running on 2 threads
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    54.914986552670598     
+   Time Per Call    54.914986552670598     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    54.913537869229913     
+   Time Per Call    54.913537869229913     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    54.919911142438650     
+   Time Per Call    54.919911142438650     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    54.929811855778098     
+   Time Per Call    54.929811855778098     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    54.919908691197634     
+   Time Per Call    54.919908691197634     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    54.929468497633934     
+   Time Per Call    54.929468497633934     
+Running on 3 threads
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    41.964592024683952     
+   Time Per Call    41.964592024683952     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    41.968047801405191     
+   Time Per Call    41.968047801405191     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    41.954657537862659     
+   Time Per Call    41.954657537862659     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    41.960482692345977     
+   Time Per Call    41.960482692345977     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    41.938833028078079     
+   Time Per Call    41.938833028078079     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    41.942783335223794     
+   Time Per Call    41.942783335223794     
+Running on 4 threads
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    33.570350654423237     
+   Time Per Call    33.570350654423237     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    33.553398391231894     
+   Time Per Call    33.553398391231894     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    33.550871089100838     
+   Time Per Call    33.550871089100838     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    33.564560068771243     
+   Time Per Call    33.564560068771243     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    33.559564471244812     
+   Time Per Call    33.559564471244812     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    33.556073054671288     
+   Time Per Call    33.556073054671288     
+Running on 6 threads
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    23.791510259732604     
+   Time Per Call    23.791510259732604     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    23.798108179122210     
+   Time Per Call    23.798108179122210     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    23.777525557205081     
+   Time Per Call    23.777525557205081     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    23.780761985108256     
+   Time Per Call    23.780761985108256     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    23.780965736135840     
+   Time Per Call    23.780965736135840     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    23.785892941057682     
+   Time Per Call    23.785892941057682     
+Running on 8 threads
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    18.399877244606614     
+   Time Per Call    18.399877244606614     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    18.409416921436787     
+   Time Per Call    18.409416921436787     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    18.409209489822388     
+   Time Per Call    18.409209489822388     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    18.403852405026555     
+   Time Per Call    18.403852405026555     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    18.392159326002002     
+   Time Per Call    18.392159326002002     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    18.408695744350553     
+   Time Per Call    18.408695744350553     
+Running on 12 threads
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    12.607557041570544     
+   Time Per Call    12.607557041570544     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    12.608508735895157     
+   Time Per Call    12.608508735895157     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    12.616181164979935     
+   Time Per Call    12.616181164979935     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    12.613492120057344     
+   Time Per Call    12.613492120057344     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    12.612401219084859     
+   Time Per Call    12.612401219084859     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    12.613530566915870     
+   Time Per Call    12.613530566915870     
+Running on 24 threads
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    6.3861239682883024     
+   Time Per Call    6.3861239682883024     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    6.3916857950389385     
+   Time Per Call    6.3916857950389385     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    6.3922701776027679     
+   Time Per Call    6.3922701776027679     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    6.3885671384632587     
+   Time Per Call    6.3885671384632587     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    6.3891217019408941     
+   Time Per Call    6.3891217019408941     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    6.3915409017354250     
+   Time Per Call    6.3915409017354250     
+Running on 30 threads
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    5.1601107362657785     
+   Time Per Call    5.1601107362657785     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    5.1612566877156496     
+   Time Per Call    5.1612566877156496     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    5.1632264647632837     
+   Time Per Call    5.1632264647632837     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    5.1574363894760609     
+   Time Per Call    5.1574363894760609     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    5.1622370649129152     
+   Time Per Call    5.1622370649129152     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    5.1607339233160019     
+   Time Per Call    5.1607339233160019     
+Running on 36 threads
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    4.2595894355326891     
+   Time Per Call    4.2595894355326891     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    4.2685598414391279     
+   Time Per Call    4.2685598414391279     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    4.2654956001788378     
+   Time Per Call    4.2654956001788378     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    4.2636219449341297     
+   Time Per Call    4.2636219449341297     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    4.2677803654223680     
+   Time Per Call    4.2677803654223680     
+ Succesfully Created timer 'goldbach'
+           2           0
+        4002         106
+        8002          80
+       12002         115
+       16002         334
+       20002         176
+       24002         215
+       28002         489
+       32002         247
+       36002         253
+ Timer 'goldbach' information
+   Calls            1
+   Total Time    4.2669278848916292     
+   Time Per Call    4.2669278848916292     

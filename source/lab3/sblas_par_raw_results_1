@@ -1,0 +1,216 @@
+Running on 1 threads
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.44173781573772430     
+   Time Per Call   4.41737815737724320E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   0.11657381616532803     
+   Time Per Call   1.16573816165328026E-004
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.86605673655867577     
+   Time Per Call   8.66056736558675736E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    5.0486821401864290     
+   Time Per Call    5.0486821401864290     
+Running on 2 threads
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.58847103267908096     
+   Time Per Call   5.88471032679080928E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   6.02225884795188904E-002
+   Time Per Call   6.02225884795188927E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.73769291304051876     
+   Time Per Call   7.37692913040518812E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    4.8860919512808323     
+   Time Per Call    4.8860919512808323     
+Running on 3 threads
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.40168627165257931     
+   Time Per Call   4.01686271652579286E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   4.13837451487779617E-002
+   Time Per Call   4.13837451487779605E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.54237815365195274     
+   Time Per Call   5.42378153651952750E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    4.4286292511969805     
+   Time Per Call    4.4286292511969805     
+Running on 4 threads
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.31192153319716454     
+   Time Per Call   3.11921533197164532E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   3.30599155277013779E-002
+   Time Per Call   3.30599155277013765E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.39097114279866219     
+   Time Per Call   3.90971142798662212E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    4.1315512526780367     
+   Time Per Call    4.1315512526780367     
+Running on 6 threads
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.23377239145338535     
+   Time Per Call   2.33772391453385342E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   2.35929023474454880E-002
+   Time Per Call   2.35929023474454894E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.30321789532899857     
+   Time Per Call   3.03217895328998543E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    3.9084654748439789     
+   Time Per Call    3.9084654748439789     
+Running on 8 threads
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.21777705661952496     
+   Time Per Call   2.17777056619524958E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   1.98173597455024719E-002
+   Time Per Call   1.98173597455024711E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.25415966100990772     
+   Time Per Call   2.54159661009907729E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    3.8197545893490314     
+   Time Per Call    3.8197545893490314     
+Running on 12 threads
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.22943142801523209     
+   Time Per Call   2.29431428015232082E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   1.69321764260530472E-002
+   Time Per Call   1.69321764260530472E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.22192748822271824     
+   Time Per Call   2.21927488222718240E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    3.7999158371239901     
+   Time Per Call    3.7999158371239901     
+Running on 24 threads
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.23497851192951202     
+   Time Per Call   2.34978511929512018E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   1.91065613180398941E-002
+   Time Per Call   1.91065613180398934E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.21505586616694927     
+   Time Per Call   2.15055866166949275E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    3.7604297809302807     
+   Time Per Call    3.7604297809302807     
+Running on 36 threads
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.28801774792373180     
+   Time Per Call   2.88017747923731795E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   2.55180150270462036E-002
+   Time Per Call   2.55180150270462021E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.33784985728561878     
+   Time Per Call   3.37849857285618779E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    3.9444624092429876     
+   Time Per Call    3.9444624092429876     

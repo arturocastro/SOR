@@ -1,0 +1,855 @@
+Running on 3 threads
+size 20:
+20
+ 
+ Omega = 1.740580
+ It took 760 iterations.
+Total time = 0.008708
+
+
+20
+ 
+ Omega = 1.740580
+ It took 760 iterations.
+Total time = 0.007928
+
+
+20
+ 
+ Omega = 1.740580
+ It took 760 iterations.
+Total time = 0.007952
+
+
+20
+ 
+ Omega = 1.740580
+ It took 760 iterations.
+Total time = 0.007705
+
+
+20
+ 
+ Omega = 1.740580
+ It took 760 iterations.
+Total time = 0.007743
+
+
+20
+ 
+ Omega = 1.740580
+ It took 760 iterations.
+Total time = 0.007707
+
+
+20
+ 
+ Omega = 1.740580
+ It took 760 iterations.
+Total time = 0.007729
+
+
+20
+ 
+ Omega = 1.740580
+ It took 760 iterations.
+Total time = 0.007850
+
+
+20
+ 
+ Omega = 1.740580
+ It took 760 iterations.
+Total time = 0.007696
+
+
+20
+ 
+ Omega = 1.740580
+ It took 760 iterations.
+Total time = 0.007804
+
+
+size 50:
+50
+ 
+ Omega = 1.884018
+ It took 3980 iterations.
+Total time = 0.131318
+
+
+50
+ 
+ Omega = 1.884018
+ It took 3980 iterations.
+Total time = 0.132020
+
+
+50
+ 
+ Omega = 1.884018
+ It took 3980 iterations.
+Total time = 0.133525
+
+
+50
+ 
+ Omega = 1.884018
+ It took 3980 iterations.
+Total time = 0.132650
+
+
+50
+ 
+ Omega = 1.884018
+ It took 3980 iterations.
+Total time = 0.131854
+
+
+50
+ 
+ Omega = 1.884018
+ It took 3980 iterations.
+Total time = 0.132567
+
+
+50
+ 
+ Omega = 1.884018
+ It took 3980 iterations.
+Total time = 0.132311
+
+
+50
+ 
+ Omega = 1.884018
+ It took 3980 iterations.
+Total time = 0.131822
+
+
+50
+ 
+ Omega = 1.884018
+ It took 3980 iterations.
+Total time = 0.133879
+
+
+50
+ 
+ Omega = 1.884018
+ It took 3980 iterations.
+Total time = 0.132402
+
+
+size 100:
+100
+ 
+ Omega = 1.939676
+ It took 15400 iterations.
+Total time = 1.812077
+
+
+100
+ 
+ Omega = 1.939676
+ It took 15400 iterations.
+Total time = 1.813406
+
+
+100
+ 
+ Omega = 1.939676
+ It took 15400 iterations.
+Total time = 1.809908
+
+
+100
+ 
+ Omega = 1.939676
+ It took 15400 iterations.
+Total time = 1.818227
+
+
+100
+ 
+ Omega = 1.939676
+ It took 15400 iterations.
+Total time = 1.816088
+
+
+100
+ 
+ Omega = 1.939676
+ It took 15400 iterations.
+Total time = 1.822078
+
+
+100
+ 
+ Omega = 1.939676
+ It took 15400 iterations.
+Total time = 1.817839
+
+
+100
+ 
+ Omega = 1.939676
+ It took 15400 iterations.
+Total time = 1.816041
+
+
+100
+ 
+ Omega = 1.939676
+ It took 15400 iterations.
+Total time = 1.813279
+
+
+100
+ 
+ Omega = 1.939676
+ It took 15400 iterations.
+Total time = 1.810372
+
+
+size 200:
+200
+ 
+ Omega = 1.969223
+ It took 60860 iterations.
+Total time = 27.644082
+
+
+200
+ 
+ Omega = 1.969223
+ It took 60860 iterations.
+Total time = 27.806459
+
+
+200
+ 
+ Omega = 1.969223
+ It took 60860 iterations.
+Total time = 27.929623
+
+
+200
+ 
+ Omega = 1.969223
+ It took 60860 iterations.
+Total time = 27.760860
+
+
+200
+ 
+ Omega = 1.969223
+ It took 60860 iterations.
+Total time = 27.927931
+
+
+200
+ 
+ Omega = 1.969223
+ It took 60860 iterations.
+Total time = 27.603546
+
+
+200
+ 
+ Omega = 1.969223
+ It took 60860 iterations.
+Total time = 27.654598
+
+
+200
+ 
+ Omega = 1.969223
+ It took 60860 iterations.
+Total time = 27.563845
+
+
+200
+ 
+ Omega = 1.969223
+ It took 60860 iterations.
+Total time = 28.025279
+
+
+200
+ 
+ Omega = 1.969223
+ It took 60860 iterations.
+Total time = 27.623406
+
+
+Running on 4 threads
+size 20:
+20
+ 
+ Omega = 1.740580
+ It took 760 iterations.
+Total time = 0.009808
+
+
+20
+ 
+ Omega = 1.740580
+ It took 760 iterations.
+Total time = 0.009808
+
+
+20
+ 
+ Omega = 1.740580
+ It took 760 iterations.
+Total time = 0.009597
+
+
+20
+ 
+ Omega = 1.740580
+ It took 760 iterations.
+Total time = 0.009451
+
+
+20
+ 
+ Omega = 1.740580
+ It took 760 iterations.
+Total time = 0.009516
+
+
+20
+ 
+ Omega = 1.740580
+ It took 760 iterations.
+Total time = 0.009645
+
+
+20
+ 
+ Omega = 1.740580
+ It took 760 iterations.
+Total time = 0.009558
+
+
+20
+ 
+ Omega = 1.740580
+ It took 760 iterations.
+Total time = 0.009456
+
+
+20
+ 
+ Omega = 1.740580
+ It took 760 iterations.
+Total time = 0.009200
+
+
+20
+ 
+ Omega = 1.740580
+ It took 760 iterations.
+Total time = 0.009592
+
+
+size 50:
+50
+ 
+ Omega = 1.884018
+ It took 3980 iterations.
+Total time = 0.160467
+
+
+50
+ 
+ Omega = 1.884018
+ It took 3980 iterations.
+Total time = 0.160071
+
+
+50
+ 
+ Omega = 1.884018
+ It took 3980 iterations.
+Total time = 0.162385
+
+
+50
+ 
+ Omega = 1.884018
+ It took 3980 iterations.
+Total time = 0.162634
+
+
+50
+ 
+ Omega = 1.884018
+ It took 3980 iterations.
+Total time = 0.161949
+
+
+50
+ 
+ Omega = 1.884018
+ It took 3980 iterations.
+Total time = 0.160618
+
+
+50
+ 
+ Omega = 1.884018
+ It took 3980 iterations.
+Total time = 0.162365
+
+
+50
+ 
+ Omega = 1.884018
+ It took 3980 iterations.
+Total time = 0.162225
+
+
+50
+ 
+ Omega = 1.884018
+ It took 3980 iterations.
+Total time = 0.160800
+
+
+50
+ 
+ Omega = 1.884018
+ It took 3980 iterations.
+Total time = 0.161669
+
+
+size 100:
+100
+ 
+ Omega = 1.939676
+ It took 15400 iterations.
+Total time = 2.174585
+
+
+100
+ 
+ Omega = 1.939676
+ It took 15400 iterations.
+Total time = 2.188451
+
+
+100
+ 
+ Omega = 1.939676
+ It took 15400 iterations.
+Total time = 2.175675
+
+
+100
+ 
+ Omega = 1.939676
+ It took 15400 iterations.
+Total time = 2.175250
+
+
+100
+ 
+ Omega = 1.939676
+ It took 15400 iterations.
+Total time = 2.172264
+
+
+100
+ 
+ Omega = 1.939676
+ It took 15400 iterations.
+Total time = 2.187626
+
+
+100
+ 
+ Omega = 1.939676
+ It took 15400 iterations.
+Total time = 2.179108
+
+
+100
+ 
+ Omega = 1.939676
+ It took 15400 iterations.
+Total time = 2.190447
+
+
+100
+ 
+ Omega = 1.939676
+ It took 15400 iterations.
+Total time = 2.173457
+
+
+100
+ 
+ Omega = 1.939676
+ It took 15400 iterations.
+Total time = 2.174024
+
+
+size 200:
+200
+ 
+ Omega = 1.969223
+ It took 60860 iterations.
+Total time = 32.857353
+
+
+200
+ 
+ Omega = 1.969223
+ It took 60860 iterations.
+Total time = 32.557686
+
+
+200
+ 
+ Omega = 1.969223
+ It took 60860 iterations.
+Total time = 32.624946
+
+
+200
+ 
+ Omega = 1.969223
+ It took 60860 iterations.
+Total time = 32.637071
+
+
+200
+ 
+ Omega = 1.969223
+ It took 60860 iterations.
+Total time = 32.606095
+
+
+200
+ 
+ Omega = 1.969223
+ It took 60860 iterations.
+Total time = 32.687089
+
+
+200
+ 
+ Omega = 1.969223
+ It took 60860 iterations.
+Total time = 32.649162
+
+
+200
+ 
+ Omega = 1.969223
+ It took 60860 iterations.
+Total time = 32.556761
+
+
+200
+ 
+ Omega = 1.969223
+ It took 60860 iterations.
+Total time = 32.623312
+
+
+200
+ 
+ Omega = 1.969223
+ It took 60860 iterations.
+Total time = 32.650028
+
+
+Running on 6 threads
+size 20:
+20
+ 
+ Omega = 1.740580
+ It took 760 iterations.
+Total time = 0.037079
+
+
+20
+ 
+ Omega = 1.740580
+ It took 760 iterations.
+Total time = 0.037451
+
+
+20
+ 
+ Omega = 1.740580
+ It took 760 iterations.
+Total time = 0.037329
+
+
+20
+ 
+ Omega = 1.740580
+ It took 760 iterations.
+Total time = 0.037664
+
+
+20
+ 
+ Omega = 1.740580
+ It took 760 iterations.
+Total time = 0.037858
+
+
+20
+ 
+ Omega = 1.740580
+ It took 760 iterations.
+Total time = 0.037443
+
+
+20
+ 
+ Omega = 1.740580
+ It took 760 iterations.
+Total time = 0.037648
+
+
+20
+ 
+ Omega = 1.740580
+ It took 760 iterations.
+Total time = 0.037134
+
+
+20
+ 
+ Omega = 1.740580
+ It took 760 iterations.
+Total time = 0.037311
+
+
+20
+ 
+ Omega = 1.740580
+ It took 760 iterations.
+Total time = 0.037968
+
+
+size 50:
+50
+ 
+ Omega = 1.884018
+ It took 3980 iterations.
+Total time = 0.307241
+
+
+50
+ 
+ Omega = 1.884018
+ It took 3980 iterations.
+Total time = 0.305142
+
+
+50
+ 
+ Omega = 1.884018
+ It took 3980 iterations.
+Total time = 0.306060
+
+
+50
+ 
+ Omega = 1.884018
+ It took 3980 iterations.
+Total time = 0.305660
+
+
+50
+ 
+ Omega = 1.884018
+ It took 3980 iterations.
+Total time = 0.306691
+
+
+50
+ 
+ Omega = 1.884018
+ It took 3980 iterations.
+Total time = 0.303208
+
+
+50
+ 
+ Omega = 1.884018
+ It took 3980 iterations.
+Total time = 0.302222
+
+
+50
+ 
+ Omega = 1.884018
+ It took 3980 iterations.
+Total time = 0.310649
+
+
+50
+ 
+ Omega = 1.884018
+ It took 3980 iterations.
+Total time = 0.307330
+
+
+50
+ 
+ Omega = 1.884018
+ It took 3980 iterations.
+Total time = 0.308919
+
+
+size 100:
+100
+ 
+ Omega = 1.939676
+ It took 15400 iterations.
+Total time = 3.051094
+
+
+100
+ 
+ Omega = 1.939676
+ It took 15400 iterations.
+Total time = 3.041264
+
+
+100
+ 
+ Omega = 1.939676
+ It took 15400 iterations.
+Total time = 3.056078
+
+
+100
+ 
+ Omega = 1.939676
+ It took 15400 iterations.
+Total time = 3.051943
+
+
+100
+ 
+ Omega = 1.939676
+ It took 15400 iterations.
+Total time = 3.050563
+
+
+100
+ 
+ Omega = 1.939676
+ It took 15400 iterations.
+Total time = 3.043548
+
+
+100
+ 
+ Omega = 1.939676
+ It took 15400 iterations.
+Total time = 3.047225
+
+
+100
+ 
+ Omega = 1.939676
+ It took 15400 iterations.
+Total time = 3.045741
+
+
+100
+ 
+ Omega = 1.939676
+ It took 15400 iterations.
+Total time = 3.053366
+
+
+100
+ 
+ Omega = 1.939676
+ It took 15400 iterations.
+Total time = 3.044661
+
+
+size 200:
+200
+ 
+ Omega = 1.969223
+ It took 60860 iterations.
+Total time = 39.765867
+
+
+200
+ 
+ Omega = 1.969223
+ It took 60860 iterations.
+Total time = 40.617232
+
+
+200
+ 
+ Omega = 1.969223
+ It took 60860 iterations.
+Total time = 40.185168
+
+
+200
+ 
+ Omega = 1.969223
+ It took 60860 iterations.
+Total time = 40.326241
+
+
+200
+ 
+ Omega = 1.969223
+ It took 60860 iterations.
+Total time = 40.073608
+
+
+200
+ 
+ Omega = 1.969223
+ It took 60860 iterations.
+Total time = 40.262512
+
+
+200
+ 
+ Omega = 1.969223
+ It took 60860 iterations.
+Total time = 39.680949
+
+
+200
+ 
+ Omega = 1.969223
+ It took 60860 iterations.
+Total time = 39.999737
+
+
+200
+ 
+ Omega = 1.969223
+ It took 60860 iterations.
+Total time = 39.853062
+
+
+200
+ 
+ Omega = 1.969223
+ It took 60860 iterations.
+Total time = 40.225597
+
+

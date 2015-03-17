@@ -1,0 +1,17 @@
+ Succesfully Created timer 'series'
+ Succesfully Created timer 'monte'
+ Succesfully Created timer 'Series+monte'
+ Pi/2 =    1.5707963217946630       +/-   2.00000000000000004E-008
+ Area of Mandelbrot set =    1.5106500387191772       +/-   2.75805712646394214E-003
+ Timer 'series' information
+   Calls            1
+   Total Time    1.2063756063580513     
+   Time Per Call    1.2063756063580513     
+ Timer 'monte' information
+   Calls            1
+   Total Time    33.530143048614264     
+   Time Per Call    33.530143048614264     
+ Timer 'Series+monte' information
+   Calls            1
+   Total Time    34.736520616337657     
+   Time Per Call    34.736520616337657     

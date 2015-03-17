@@ -1,0 +1,4 @@
+# Access to Open Grid Engine
+. /geadmin/ge2011.11/default/common/settings.sh
+# Access to MPI
+#PATH=/usr/local/software/mpich2-install/bin:$PATH ; export PATH

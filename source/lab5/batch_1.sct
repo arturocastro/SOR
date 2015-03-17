@@ -1,0 +1,35 @@
+#!/bin/sh
+#
+# request Bourne shell as shell for job
+#$ -S /bin/sh
+#
+# use current working directory
+#$ -cwd
+#
+# join the output and error output in one file
+#$ -j y
+#
+# use the par environment for parallel jobs
+#$ -pe par 36
+#
+# set up path for MPI
+PATH=/usr/local/bin:$PATH ; export PATH
+LD_LIBRARY_PATH=/opt/intel/composer_xe_2013_sp1.0.080/compiler/lib/intel64/:$LD_LIBRARY_PATH ; export LD_LIBRARY_PATH
+#PATH=/usr/local/software/mpich2-install/bin:$PATH ; export PATH
+#
+
+COUNTER=0
+
+for p in 1 2 4 8
+do
+  export OMP_NUM_THREADS=$p
+  echo Running on $p mpi processes
+  
+  let COUNTER=0
+  
+  while [ $COUNTER -lt 6 ]; do
+    mpiexec -n $p ./sblas_1
+    let COUNTER=COUNTER+1
+  done
+done
+

@@ -1,0 +1,1251 @@
+Running on 1 threads
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.43188548088073730     
+   Time Per Call   4.31885480880737319E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   0.11466089822351933     
+   Time Per Call   1.14660898223519330E-004
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.86482279561460018     
+   Time Per Call   8.64822795614600143E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    4.3677971586585045     
+   Time Per Call    4.3677971586585045     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.43072219379246235     
+   Time Per Call   4.30722193792462357E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   0.11459696851670742     
+   Time Per Call   1.14596968516707425E-004
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.87123020738363266     
+   Time Per Call   8.71230207383632692E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    4.3146242816001177     
+   Time Per Call    4.3146242816001177     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.43222451955080032     
+   Time Per Call   4.32224519550800318E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   0.11472621746361256     
+   Time Per Call   1.14726217463612560E-004
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.86514347791671753     
+   Time Per Call   8.65143477916717561E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    4.3630276620388031     
+   Time Per Call    4.3630276620388031     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.43138734437525272     
+   Time Per Call   4.31387344375252742E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   0.11457481607794762     
+   Time Per Call   1.14574816077947614E-004
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.88474352471530437     
+   Time Per Call   8.84743524715304419E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    4.4262468591332436     
+   Time Per Call    4.4262468591332436     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.42989253811538219     
+   Time Per Call   4.29892538115382193E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   0.11452378705143929     
+   Time Per Call   1.14523787051439281E-004
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.87932500801980495     
+   Time Per Call   8.79325008019804901E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    4.2511681616306305     
+   Time Per Call    4.2511681616306305     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.43126700818538666     
+   Time Per Call   4.31267008185386657E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   0.11472416110336781     
+   Time Per Call   1.14724161103367810E-004
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.88479759544134140     
+   Time Per Call   8.84797595441341408E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    4.4214440155774355     
+   Time Per Call    4.4214440155774355     
+Running on 2 threads
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.21888749301433563     
+   Time Per Call   2.18887493014335621E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   5.96465617418289185E-002
+   Time Per Call   5.96465617418289200E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.44260125607252121     
+   Time Per Call   4.42601256072521192E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    2.2142488583922386     
+   Time Per Call    2.2142488583922386     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.21712570451200008     
+   Time Per Call   2.17125704512000095E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   5.92208169400691986E-002
+   Time Per Call   5.92208169400692007E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.44820528849959373     
+   Time Per Call   4.48205288499593758E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    2.2470264844596386     
+   Time Per Call    2.2470264844596386     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.21807571500539780     
+   Time Per Call   2.18075715005397800E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   5.93505799770355225E-002
+   Time Per Call   5.93505799770355198E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.44660819880664349     
+   Time Per Call   4.46608198806643488E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    2.2341793905943632     
+   Time Per Call    2.2341793905943632     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.21618597023189068     
+   Time Per Call   2.16185970231890683E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   5.91861214488744736E-002
+   Time Per Call   5.91861214488744749E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.44951392337679863     
+   Time Per Call   4.49513923376798651E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    2.1772260777652264     
+   Time Per Call    2.1772260777652264     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.21708656847476959     
+   Time Per Call   2.17086568474769606E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   5.93194328248500824E-002
+   Time Per Call   5.93194328248500835E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.44655489362776279     
+   Time Per Call   4.46554893627762819E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    2.2273855097591877     
+   Time Per Call    2.2273855097591877     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.21777082234621048     
+   Time Per Call   2.17770822346210493E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   5.91746084392070770E-002
+   Time Per Call   5.91746084392070774E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.44961918331682682     
+   Time Per Call   4.49619183316826839E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    2.2611184902489185     
+   Time Per Call    2.2611184902489185     
+Running on 3 threads
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.14161301031708717     
+   Time Per Call   1.41613010317087178E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   4.08959817141294479E-002
+   Time Per Call   4.08959817141294502E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.29099170118570328     
+   Time Per Call   2.90991701185703297E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    1.4796085096895695     
+   Time Per Call    1.4796085096895695     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.14016018621623516     
+   Time Per Call   1.40160186216235153E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   4.09189406782388687E-002
+   Time Per Call   4.09189406782388659E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.29832216538488865     
+   Time Per Call   2.98322165384888626E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    1.4325472526252270     
+   Time Per Call    1.4325472526252270     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.14082358404994011     
+   Time Per Call   1.40823584049940101E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   4.09754384309053421E-002
+   Time Per Call   4.09754384309053433E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.29125545918941498     
+   Time Per Call   2.91255459189414983E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    1.4724727421998978     
+   Time Per Call    1.4724727421998978     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.14099070802330971     
+   Time Per Call   1.40990708023309703E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   4.08049095422029495E-002
+   Time Per Call   4.08049095422029513E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.29105372168123722     
+   Time Per Call   2.91053721681237224E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    1.4753823708742857     
+   Time Per Call    1.4753823708742857     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.14106250926852226     
+   Time Per Call   1.41062509268522249E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   4.08829338848590851E-002
+   Time Per Call   4.08829338848590854E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.29090946353971958     
+   Time Per Call   2.90909463539719578E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    1.4753595627844334     
+   Time Per Call    1.4753595627844334     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.14074194058775902     
+   Time Per Call   1.40741940587759019E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   4.09324839711189270E-002
+   Time Per Call   4.09324839711189254E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.29927602037787437     
+   Time Per Call   2.99276020377874368E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    1.5028781984001398     
+   Time Per Call    1.5028781984001398     
+Running on 4 threads
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.10514903254806995     
+   Time Per Call   1.05149032548069958E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   3.18649671971797943E-002
+   Time Per Call   3.18649671971797939E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.22751543670892715     
+   Time Per Call   2.27515436708927151E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    1.1268979460000992     
+   Time Per Call    1.1268979460000992     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.10604272969067097     
+   Time Per Call   1.06042729690670963E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   3.22178434580564499E-002
+   Time Per Call   3.22178434580564505E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.22837899252772331     
+   Time Per Call   2.28378992527723313E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    1.1676161009818316     
+   Time Per Call    1.1676161009818316     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.10474147647619247     
+   Time Per Call   1.04741476476192478E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   3.21614444255828857E-002
+   Time Per Call   3.21614444255828889E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.22603401541709900     
+   Time Per Call   2.26034015417099005E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    1.0882095042616129     
+   Time Per Call    1.0882095042616129     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.10475587844848633     
+   Time Per Call   1.04755878448486325E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   3.21208257228136063E-002
+   Time Per Call   3.21208257228136081E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.22606252878904343     
+   Time Per Call   2.26062528789043414E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    1.0874124448746443     
+   Time Per Call    1.0874124448746443     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.10431588068604469     
+   Time Per Call   1.04315880686044687E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   3.20304278284311295E-002
+   Time Per Call   3.20304278284311327E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.22529776021838188     
+   Time Per Call   2.25297760218381879E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    1.0802235901355743     
+   Time Per Call    1.0802235901355743     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   0.10441502928733826     
+   Time Per Call   1.04415029287338257E-004
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   3.22009734809398651E-002
+   Time Per Call   3.22009734809398644E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.22555509954690933     
+   Time Per Call   2.25555099546909322E-004
+ Timer 'total' information
+   Calls            1
+   Total Time    1.0846579093486071     
+   Time Per Call    1.0846579093486071     
+Running on 6 threads
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   7.24185183644294739E-002
+   Time Per Call   7.24185183644294751E-005
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   2.36831419169902802E-002
+   Time Per Call   2.36831419169902818E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.14982458949089050     
+   Time Per Call   1.49824589490890516E-004
+ Timer 'total' information
+   Calls            1
+   Total Time   0.80547845363616943     
+   Time Per Call   0.80547845363616943     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   7.22607895731925964E-002
+   Time Per Call   7.22607895731925971E-005
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   2.39055585116147995E-002
+   Time Per Call   2.39055585116148005E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.14947385154664516     
+   Time Per Call   1.49473851546645165E-004
+ Timer 'total' information
+   Calls            1
+   Total Time   0.81335745379328728     
+   Time Per Call   0.81335745379328728     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   7.17071499675512314E-002
+   Time Per Call   7.17071499675512317E-005
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   2.37939562648534775E-002
+   Time Per Call   2.37939562648534764E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.15128248557448387     
+   Time Per Call   1.51282485574483867E-004
+ Timer 'total' information
+   Calls            1
+   Total Time   0.73262507095932961     
+   Time Per Call   0.73262507095932961     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   7.14486483484506607E-002
+   Time Per Call   7.14486483484506624E-005
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   2.35516596585512161E-002
+   Time Per Call   2.35516596585512145E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.15231076069176197     
+   Time Per Call   1.52310760691761978E-004
+ Timer 'total' information
+   Calls            1
+   Total Time   0.80703788250684738     
+   Time Per Call   0.80703788250684738     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   7.16511737555265427E-002
+   Time Per Call   7.16511737555265368E-005
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   2.36015208065509796E-002
+   Time Per Call   2.36015208065509784E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.15396435931324959     
+   Time Per Call   1.53964359313249596E-004
+ Timer 'total' information
+   Calls            1
+   Total Time   0.81062158569693565     
+   Time Per Call   0.81062158569693565     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   7.17331878840923309E-002
+   Time Per Call   7.17331878840923301E-005
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   2.36892644315958023E-002
+   Time Per Call   2.36892644315958010E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.15116000920534134     
+   Time Per Call   1.51160009205341333E-004
+ Timer 'total' information
+   Calls            1
+   Total Time   0.72816711664199829     
+   Time Per Call   0.72816711664199829     
+Running on 8 threads
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   5.59740886092185974E-002
+   Time Per Call   5.59740886092185985E-005
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   2.00004372745752335E-002
+   Time Per Call   2.00004372745752339E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.11569594778120518     
+   Time Per Call   1.15695947781205172E-004
+ Timer 'total' information
+   Calls            1
+   Total Time   0.57482745125889778     
+   Time Per Call   0.57482745125889778     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   5.53891696035861969E-002
+   Time Per Call   5.53891696035861949E-005
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   1.97596941143274307E-002
+   Time Per Call   1.97596941143274319E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.11633570306003094     
+   Time Per Call   1.16335703060030932E-004
+ Timer 'total' information
+   Calls            1
+   Total Time   0.62790527194738388     
+   Time Per Call   0.62790527194738388     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   5.53015675395727158E-002
+   Time Per Call   5.53015675395727155E-005
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   1.95472221821546555E-002
+   Time Per Call   1.95472221821546538E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.11607193388044834     
+   Time Per Call   1.16071933880448335E-004
+ Timer 'total' information
+   Calls            1
+   Total Time   0.62820440903306007     
+   Time Per Call   0.62820440903306007     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   5.68669233471155167E-002
+   Time Per Call   5.68669233471155169E-005
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   2.00088527053594589E-002
+   Time Per Call   2.00088527053594594E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.11796757206320763     
+   Time Per Call   1.17967572063207627E-004
+ Timer 'total' information
+   Calls            1
+   Total Time   0.64304171875119209     
+   Time Per Call   0.64304171875119209     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   5.63992578536272049E-002
+   Time Per Call   5.63992578536272034E-005
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   2.00127083808183670E-002
+   Time Per Call   2.00127083808183670E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.11439180001616478     
+   Time Per Call   1.14391800016164775E-004
+ Timer 'total' information
+   Calls            1
+   Total Time   0.62612908333539963     
+   Time Per Call   0.62612908333539963     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   5.54378498345613480E-002
+   Time Per Call   5.54378498345613498E-005
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   1.94878727197647095E-002
+   Time Per Call   1.94878727197647090E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   0.11762879602611065     
+   Time Per Call   1.17628796026110648E-004
+ Timer 'total' information
+   Calls            1
+   Total Time   0.63144947588443756     
+   Time Per Call   0.63144947588443756     
+Running on 12 threads
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   4.10123057663440704E-002
+   Time Per Call   4.10123057663440676E-005
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   1.67629402130842209E-002
+   Time Per Call   1.67629402130842206E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   7.86848515272140503E-002
+   Time Per Call   7.86848515272140506E-005
+ Timer 'total' information
+   Calls            1
+   Total Time   0.43674429319798946     
+   Time Per Call   0.43674429319798946     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   4.12118043750524521E-002
+   Time Per Call   4.12118043750524552E-005
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   1.71900950372219086E-002
+   Time Per Call   1.71900950372219070E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   7.98697341233491898E-002
+   Time Per Call   7.98697341233491916E-005
+ Timer 'total' information
+   Calls            1
+   Total Time   0.43863008916378021     
+   Time Per Call   0.43863008916378021     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   4.15188353508710861E-002
+   Time Per Call   4.15188353508710880E-005
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   1.68917607516050339E-002
+   Time Per Call   1.68917607516050333E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   7.95164220035076141E-002
+   Time Per Call   7.95164220035076075E-005
+ Timer 'total' information
+   Calls            1
+   Total Time   0.43861425109207630     
+   Time Per Call   0.43861425109207630     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   4.12855204194784164E-002
+   Time Per Call   4.12855204194784145E-005
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   1.73806417733430862E-002
+   Time Per Call   1.73806417733430864E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   8.24235528707504272E-002
+   Time Per Call   8.24235528707504222E-005
+ Timer 'total' information
+   Calls            1
+   Total Time   0.44568157941102982     
+   Time Per Call   0.44568157941102982     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   3.98434009402990341E-002
+   Time Per Call   3.98434009402990323E-005
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   1.66771449148654938E-002
+   Time Per Call   1.66771449148654941E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   8.07660706341266632E-002
+   Time Per Call   8.07660706341266593E-005
+ Timer 'total' information
+   Calls            1
+   Total Time   0.43436732143163681     
+   Time Per Call   0.43436732143163681     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   4.13418915122747421E-002
+   Time Per Call   4.13418915122747388E-005
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   1.73163488507270813E-002
+   Time Per Call   1.73163488507270817E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   7.96542223542928696E-002
+   Time Per Call   7.96542223542928761E-005
+ Timer 'total' information
+   Calls            1
+   Total Time   0.43749016895890236     
+   Time Per Call   0.43749016895890236     
+Running on 24 threads
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   2.76099536567926407E-002
+   Time Per Call   2.76099536567926403E-005
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   1.89514309167861938E-002
+   Time Per Call   1.89514309167861934E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   5.14532700181007385E-002
+   Time Per Call   5.14532700181007371E-005
+ Timer 'total' information
+   Calls            1
+   Total Time   0.26430813781917095     
+   Time Per Call   0.26430813781917095     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   3.04715856909751892E-002
+   Time Per Call   3.04715856909751909E-005
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   1.90246887505054474E-002
+   Time Per Call   1.90246887505054468E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   5.09709902107715607E-002
+   Time Per Call   5.09709902107715617E-005
+ Timer 'total' information
+   Calls            1
+   Total Time   0.27411933615803719     
+   Time Per Call   0.27411933615803719     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   2.98884864896535873E-002
+   Time Per Call   2.98884864896535874E-005
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   1.83889809995889664E-002
+   Time Per Call   1.83889809995889664E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   4.90430947393178940E-002
+   Time Per Call   4.90430947393178968E-005
+ Timer 'total' information
+   Calls            1
+   Total Time   0.26466842554509640     
+   Time Per Call   0.26466842554509640     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   3.03104035556316376E-002
+   Time Per Call   3.03104035556316365E-005
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   1.91877298057079315E-002
+   Time Per Call   1.91877298057079329E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   5.12449480593204498E-002
+   Time Per Call   5.12449480593204473E-005
+ Timer 'total' information
+   Calls            1
+   Total Time   0.27507160417735577     
+   Time Per Call   0.27507160417735577     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   3.02908830344676971E-002
+   Time Per Call   3.02908830344676969E-005
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   1.91928781569004059E-002
+   Time Per Call   1.91928781569004058E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   5.09955026209354401E-002
+   Time Per Call   5.09955026209354408E-005
+ Timer 'total' information
+   Calls            1
+   Total Time   0.27349290065467358     
+   Time Per Call   0.27349290065467358     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   3.01384478807449341E-002
+   Time Per Call   3.01384478807449343E-005
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   1.83528382331132889E-002
+   Time Per Call   1.83528382331132881E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   5.06030395627021790E-002
+   Time Per Call   5.06030395627021776E-005
+ Timer 'total' information
+   Calls            1
+   Total Time   0.26324381865561008     
+   Time Per Call   0.26324381865561008     
+Running on 36 threads
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   2.77736242860555649E-002
+   Time Per Call   2.77736242860555659E-005
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   2.63231284916400909E-002
+   Time Per Call   2.63231284916400898E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   5.22014629095792770E-002
+   Time Per Call   5.22014629095792773E-005
+ Timer 'total' information
+   Calls            1
+   Total Time   0.24137106724083424     
+   Time Per Call   0.24137106724083424     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   3.11903990805149078E-002
+   Time Per Call   3.11903990805149092E-005
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   2.66338735818862915E-002
+   Time Per Call   2.66338735818862902E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   5.06170187145471573E-002
+   Time Per Call   5.06170187145471578E-005
+ Timer 'total' information
+   Calls            1
+   Total Time   0.23953799530863762     
+   Time Per Call   0.23953799530863762     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   3.02866026759147644E-002
+   Time Per Call   3.02866026759147629E-005
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   2.48867105692625046E-002
+   Time Per Call   2.48867105692625029E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   4.73581776022911072E-002
+   Time Per Call   4.73581776022911056E-005
+ Timer 'total' information
+   Calls            1
+   Total Time   0.23738970421254635     
+   Time Per Call   0.23738970421254635     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   3.09520885348320007E-002
+   Time Per Call   3.09520885348320038E-005
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   2.49143727123737335E-002
+   Time Per Call   2.49143727123737329E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   5.14244250953197479E-002
+   Time Per Call   5.14244250953197450E-005
+ Timer 'total' information
+   Calls            1
+   Total Time   0.24019484221935272     
+   Time Per Call   0.24019484221935272     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   3.41103654354810715E-002
+   Time Per Call   3.41103654354810737E-005
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   2.47486848384141922E-002
+   Time Per Call   2.47486848384141925E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   5.04583138972520828E-002
+   Time Per Call   5.04583138972520805E-005
+ Timer 'total' information
+   Calls            1
+   Total Time   0.24408760853111744     
+   Time Per Call   0.24408760853111744     
+ Succesfully Created timer 'vecadd'
+ Succesfully Created timer 'vecsum'
+ Succesfully Created timer 'trimv'
+ Succesfully Created timer 'total'
+ x(1) =    6.2839999198913574      x(n) =    6.2839999198913574     
+ Sum of x() =    386088.95507812500     
+ y(1,1) =    6.2839999198913574      y(1,m) =    3217.4079589843750     
+ Timer 'vecadd' information
+   Calls         1000
+   Total Time   2.72498372942209244E-002
+   Time Per Call   2.72498372942209252E-005
+ Timer 'vecsum' information
+   Calls         1000
+   Total Time   2.57508978247642517E-002
+   Time Per Call   2.57508978247642507E-005
+ Timer 'trimv' information
+   Calls         1000
+   Total Time   5.14944829046726227E-002
+   Time Per Call   5.14944829046726216E-005
+ Timer 'total' information
+   Calls            1
+   Total Time   0.23641502857208252     
+   Time Per Call   0.23641502857208252     
